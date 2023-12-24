@@ -1,0 +1,223 @@
+# Translation of Plugins - Helper Lite for PageSpeed - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Helper Lite for PageSpeed - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-30 21:59:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Helper Lite for PageSpeed - Stable (latest release)\n"
+
+#: src/admin/class-admin-manager.php:451
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: src/admin/class-admin-manager.php:228
+msgid "Buy developer a coffee"
+msgstr "Купить кофе разработчику"
+
+#. Description of the plugin
+msgid "Speed up your site with attributes decoding=\"async\" & loading=\"lazy\" for &lt;img&gt; and &lt;iframe&gt;. Removes problem \"Does not use passive listeners to improve scrolling performance\". Help to Up Your Google PageSpeed Insights Score."
+msgstr "Ускоряет Ваш сайт путём добавления к &lt;img&gt; и &lt;iframe&gt; атрибутов decoding=”async” & loading=”lazy”. Убирает замечание Google PageSpeed Insights ”Пассивные прослушиватели событий не используются для улучшения производительности при прокрутке”. Помогает поднять баллы в тесте Google PageSpeed Insights."
+
+#: src/admin/class-admin-manager.php:362
+msgid "Improve Largest Contentful Paint (LCP) by optimizing thumbnail loading<br/> - method display:none - to hide Post Thumbnail on mobile device via the CSS property display<br/> - method LQIP - set Low Quality Image Placeholders for Post Thumbnail"
+msgstr "Улучшите Largest Contentful Paint (LCP) за счет оптимизации загрузки изображений записи (Post Thumbnail) <br/> - метод display:none - чтобы скрыть изображение записи сообщения на мобильном устройстве через свойство CSS display<br/> - метод LQIP - установить заполнители изображения низкого качества для изображения записи"
+
+#: src/admin/class-admin-manager.php:361
+msgid "LQIP"
+msgstr "LQIP"
+
+#: src/admin/class-admin-manager.php:633
+msgid "GitHub profile "
+msgstr "Профиль GitHub"
+
+#: src/admin/class-admin-manager.php:615
+msgid "TeamLead, WordPress evangelist, PHP & JavaScript programmer, Wordpress themes and plugins developer"
+msgstr "TeamLead, евангелист WordPress, программист PHP и JavaScript, разработчик тем и плагинов WordPress"
+
+#: src/admin/class-admin-manager.php:608
+msgid "Mikhail Kobzarev (mihdan)"
+msgstr "Михаил Кобзарев (mihdan)"
+
+#: src/admin/class-admin-manager.php:506
+msgid "For more information visit our <a href=\"https://wordpress.org/plugins/helper-lite-for-pagespeed/#faq-header\" target=\"_blank\">FAQ</a>."
+msgstr "Чтобы узнать больше посетите страницу <a href=\"https://wordpress.org/plugins/helper-lite-for-pagespeed/#faq-header\" target=\"_blank\">FAQ</a>."
+
+#: src/admin/class-admin-manager.php:399
+msgid "More optimization"
+msgstr "Больше оптимизации"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Fantastic!"
+msgstr "Фантастично!"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Great"
+msgstr "Отлично!"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Good"
+msgstr "Хорошо"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Works"
+msgstr "Работает"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Poor"
+msgstr "Плохо"
+
+#: src/admin/class-admin-manager.php:257
+msgid "Rate us:"
+msgstr "Оцените нас:"
+
+#: src/admin/class-admin-manager.php:154
+msgctxt "Menu item"
+msgid "WP Booster"
+msgstr "WP Booster"
+
+#. Author of the plugin
+#: src/admin/class-admin-manager.php:153
+msgid "WP Booster"
+msgstr "WP Booster"
+
+#: src/admin/class-admin-manager.php:585
+msgid "PHP & JavaScript (NodeJS) programmer, Wordpress themes and plugins developer"
+msgstr "PHP & JavaScript (NodeJS) программист, разработчик тем и плагинов WordPress"
+
+#: src/admin/class-admin-manager.php:577
+msgid "Karenina"
+msgstr "Каренина"
+
+#: src/admin/class-admin-manager.php:572 src/admin/class-admin-manager.php:603
+#: src/admin/class-admin-manager.php:632
+msgid "Telegram profile "
+msgstr "Профиль Telegram"
+
+#: src/admin/class-admin-manager.php:556 src/admin/class-admin-manager.php:587
+#: src/admin/class-admin-manager.php:617
+msgid "Languages"
+msgstr "Языки"
+
+#: src/admin/class-admin-manager.php:554
+msgid "Web-Master, SEO specialist, SEO optimization + PageSpeed for Wordpress sites"
+msgstr "Web-мастер, SEO специалист, SEO оптимизация + PageSpeed для сайтов на WordPress"
+
+#: src/admin/class-admin-manager.php:546
+msgid "Eugen Kalinsky"
+msgstr "Калинский Евгений"
+
+#: src/admin/class-admin-manager.php:541
+msgid "Developers"
+msgstr "Разработчики"
+
+#: src/admin/class-admin-manager.php:531
+msgid "- Contact us at"
+msgstr "Свяжитесь с нами"
+
+#. translators: available languages.
+#: src/admin/class-admin-manager.php:521
+msgid "We speak %s languages."
+msgstr "Мы говорим на %s языках."
+
+#: src/admin/class-admin-manager.php:518
+msgid "Support"
+msgstr "Тех.поддержка"
+
+#: src/admin/class-admin-manager.php:504
+msgid "What attributes should I use?"
+msgstr "Какие атрибуты я должен использовать?"
+
+#: src/admin/class-admin-manager.php:498
+msgid "<b>Filters</b> — will not filter all images on page. Affects only post/page content and thumbnails. Uses Wordpress standard filters. Safe to use on any site."
+msgstr "<b>Filters</b> - не будут фильтроваться все изображения на странице. Влияет только на содержимое сообщения / страницы и миниатюры. Использует стандартные фильтры WordPress. Безопасен для использования на любом сайте."
+
+#: src/admin/class-admin-manager.php:495
+msgid "Filters or Buffer?"
+msgstr "Filters или Buffer?"
+
+#: src/admin/class-admin-manager.php:441
+msgid "Help"
+msgstr "Помощь"
+
+#: src/admin/class-admin-manager.php:318
+msgid "Attribute \"decoding\" for &lt;image&gt;"
+msgstr "Атрибут  \"decoding\" для &lt;image&gt;"
+
+#: src/admin/class-admin-manager.php:300
+msgid "Attribute \"loading\" for &lt;image&gt;"
+msgstr "Атрибут \"loading\" для &lt;image&gt;"
+
+#: src/admin/class-admin-manager.php:256 src/admin/class-admin-manager.php:492
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/admin/class-admin-manager.php:335
+msgid "Attribute \"loading\" for &lt;iframe&gt;"
+msgstr "Атрибут \"loading\" для &lt;iframe&gt;"
+
+#: src/admin/class-admin-manager.php:334
+msgid "iframe loading"
+msgstr "iframe loading"
+
+#: src/admin/class-admin-manager.php:317
+msgid "decoding"
+msgstr "decoding"
+
+#: src/admin/class-admin-manager.php:299
+msgid "loading"
+msgstr "loading"
+
+#: src/admin/class-admin-manager.php:285
+msgid "Filter - use default Wordpress filters. Will not filter all images on page.<br />Buffer - use PHP buffer. Filter all images on page. Might cause problems on some servers."
+msgstr ""
+"Filter - использовать стандартные фильтры WordPress. Не будет фильтровать все изображения на странице. <br /> \n"
+"Buffer - использовать буфер PHP. Фильтрует все изображения на странице. Может вызвать проблемы на некоторых серверах."
+
+#: src/admin/class-admin-fields.php:718
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#: src/admin/class-admin-fields.php:697
+msgid "Choose File"
+msgstr "Выберите файл"
+
+#: src/admin/class-admin-manager.php:351
+msgid "Images"
+msgstr "Изображения"
+
+#: helper-lite-for-pagespeed.php:28
+msgid "PageSpeed Helper"
+msgstr "PageSpeed Helper"
+
+#: src/admin/class-admin-manager.php:388
+msgid "Events with attribute passive perform better for touch and wheel"
+msgstr "Пассивные прослушиватели событий не используются для улучшения производительности при прокрутке"
+
+#: src/admin/class-admin-manager.php:387
+msgid "Use passive events"
+msgstr "Используются пассивные прослушиватели"
+
+#: src/admin/class-admin-manager.php:377
+msgid "Scripts"
+msgstr "Скрипты"
+
+#: src/admin/class-admin-manager.php:284
+msgid "Select filter type"
+msgstr "Выберите тип фильтра"
+
+#: src/admin/class-admin-manager.php:226 src/admin/class-admin-manager.php:274
+msgid "Settings"
+msgstr "Настройки"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/helper-lite-for-pagespeed/"
+msgstr "https://wordpress.org/plugins/helper-lite-for-pagespeed/"
+
+#. Plugin Name of the plugin
+msgid "Helper Lite for PageSpeed"
+msgstr "Helper Lite for PageSpeed"

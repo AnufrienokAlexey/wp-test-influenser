@@ -1,0 +1,48 @@
+.kadence-widget-single-fullpane {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.03);
+  margin-bottom: 10px;
+}
+.kadence-remove-fullpane {
+  text-decoration: none;
+}
+.kadence-fullpane-widget-content .kad_fullpane_background_section label,
+.kadence-fullpane-widget-content .kad_fullpane_pane_section > label {
+  font-weight: bold;
+}
+.siteorigin-panels-builder-kadence-fullpanes.siteorigin-panels-builder .so-builder-toolbar a.so-tool-button.so-learn {
+  display: none;
+}
+.siteorigin-panels-builder-kadence-fullpanes {
+  padding: 10px 10px 0;
+  background: #fff;
+  border: 1px solid #dddddd;
+}
+.kadence-fullpane-widget-header {
+  position: relative;
+  padding: 10px;
+  background-color: #dddddd;
+  color: #777777;
+  cursor: move;
+}
+.kadence-fullpane-widget-header-title {
+  color: initial;
+  font-weight: bold;
+}
+.kadence-fullpane-widget-toggle {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  margin-top: -16px;
+  padding: 6px;
+  cursor: pointer;
+}
+.kadence-fullpane-widget-content {
+  padding: 0 10px;
+}
+.kadence-fullpane-widget-placeholder {
+  border: 1px dotted #777777;
+  height: 40px;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=admin-kadence-fullpane.css.map */
